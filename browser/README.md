@@ -49,4 +49,5 @@ html은 일반적인 하향식,상향식 파서로는 불가
 html 토큰화
 태그 열림 상태 , 자료 상태등으로 파서
 
-[브라우저는 어떻게 동작하는가]: https://d2.naver.com/helloworld/59361
+참조
+* 브라우저는 어떻게 동작하는가: <https://d2.naver.com/helloworld/59361>
